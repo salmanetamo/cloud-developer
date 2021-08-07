@@ -1,0 +1,2 @@
+-Git Repository: https://github.com/salmanetamo/cloud-developer/tree/master/course-02/project
+-Elastic Beanstalk endpoint: http://image-filter-dev2.us-east-1.elasticbeanstalk.com/
